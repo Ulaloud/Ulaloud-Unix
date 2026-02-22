@@ -1,0 +1,5 @@
+chroot/
+isotmp/
+*.iso
+*.squashfs
+.eggs/
